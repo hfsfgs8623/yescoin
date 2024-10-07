@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A7225855315%2C%22first_name%22%3A%22%D8%9C%22%2C%22last_name%22%3A%22moewob%22%2C%22username%22%3A%22moewob%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=9036384200572975208&chat_type=sender&auth_date=1727281626&hash=60001c67de2f12d85bb4501a7a578eb0591397e9fc037c0315caa7a8f54f7bf7
